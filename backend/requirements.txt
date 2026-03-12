@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+pydantic
+sqlalchemy
+psycopg2-binary
+redis
+celery
+python-dotenv
+httpx
+langchain-groq
+groq
